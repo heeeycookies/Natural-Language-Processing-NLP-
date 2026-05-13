@@ -1,0 +1,99 @@
+_vader_text,vader_label_num,date,label,pred_prob,pred_label
+the 4 best gpus of 2025 and the one nvidia card you must avoid,1,2025-12-15,1,0.9054884,1
+msi cyborg - 15 . 6 geforce rtx 4050 laptop gpu - intel core i7 - 13620h - 16gb memory - 512 gb ssd - windows 11 home gaming laptops - 144 hz ips ( a13ve - 218us ),0,2025-12-15,0,0.73516,1
+artificial intelligence gpu depreciation debate and earnings risk,1,2025-12-15,1,0.32692185,0
+"weekly news roundup : tsmc pauses japan fab plans , tesla powerwall demand rises in taiwan , huawei flags ai oversupply risks",1,2025-12-15,1,0.14993088,0
+"this tool claims to run the de - facto cuda code on non - nvidia gpus , and a major upgrade now adds support for amd rocm7",1,2025-12-16,1,0.2496952,0
+"clearml enhances amd instinct gpu partitioning to maximize utilization , centralize management , and accelerate enterprise ai adoption",0,2025-12-16,0,0.07088745,0
+"it news online - clearml enhances amd instinct gpu partitioning to maximize utilization , centralize management , and accelerate enterprise ai adoption",0,2025-12-16,0,0.057658404,0
+"fortinet , nvidia embed firewall security in ai fabrics",1,2025-12-16,1,0.05038083,0
+"efficient synchronous dataflow execution for gpus ( nvidia , uw - madison )",1,2025-12-16,1,0.26283878,0
+ai chipmaker nvidia just released open source models for ai agents,0,2025-12-16,0,0.18824975,0
+father of immersion lithography warns : intel tsmc talent grab invites process tech scrutiny,1,2025-12-16,1,0.5011352,1
+micron stock surges as memory - chip maker smashes estimates,0,2025-12-17,0,0.21359189,0
+intel xpu manager updated with bmg - g31 gpu support,1,2025-12-17,1,0.09987857,0
+micron persistent dram demand,-1,2025-12-17,0,0.061026122,0
+inquiry into broadcom competitor dynamics in semiconductors & semiconductor equipment industry - broadcom ( nasdaq : avgo ),1,2025-12-17,1,0.32036236,0
+"asml : ai driving semiconductor equipment sales growth to $126 billion by 2026 , ettelecom",1,2025-12-17,1,0.2057636,0
+texas instruments opens first semiconductor factory at massive sherman site,0,2025-12-18,0,0.79657584,1
+"intel ispc 1 . 29 drops gen9 gpu targets , add new optimizations & experimental risc - v",1,2025-12-18,1,0.084458604,0
+"tsmc brings its most advanced chipmaking node to the us yet , to begin equipment installation for 3mn months ahead of schedule arizona fab slated for production in 2027",1,2025-12-18,1,0.55763936,1
+"south korea allocates 10 , 000 nvidia gpus to smes and ai projects",0,2025-12-18,0,0.14299718,0
+micron hikes fy26 capex to us$20b to accelerate hbm and us fab output,1,2025-12-18,1,0.20588867,0
+micron hbm4 production set on 1 - beta process as india atmp ramp slips to 2026,0,2025-12-18,0,0.15806724,0
+micron says fab start - up costs to have limited impact on gross margins despite expansion push,-1,2025-12-18,0,0.17248607,0
+intel vs . taiwan semiconductor manufacturing : which stock will outperform in 2026 ?,0,2025-12-19,0,0.33049217,0
+"nvidia stock gains on trump chip export review , sparking rally in chipmakers",1,2025-12-19,1,0.17907235,0
+why nvidia is planning a major cut to gaming gpu production next year,-1,2025-12-19,0,0.33914703,0
+performance comparison : broadcom and competitors in semiconductors & semiconductor equipment industry - broadcom ( nasdaq : avgo ),0,2025-12-19,0,0.21763684,0
+wall street is raving about micron earnings as one of the biggest - ever surprises for a chipmaker,1,2025-12-19,1,0.4410509,0
+nvidia corporation $nvda shares purchased by canandaigua national bank & trust co .,1,2025-12-20,1,0.26158425,0
+"canandaigua national trust co of florida sells 2 , 814 shares of nvidia corporation $nvda",1,2025-12-20,1,0.14877501,0
+mesa 26 . 0 nvk driver lands improvement for nvidia geforce rtx 20 turing gpus,1,2025-12-20,1,0.7096412,1
+msi vector - lcd 16 qhd+ geforce rtx 5080 laptop gpu - intel core ultra 9 275hx - 16gb memory - 1 tb ssd - windows 11 home gaming laptop - 240 hz ( vector 16 hx ai a2xwig - 050us ),0,2025-12-20,0,0.6277575,1
+michael burry asks for photos of warehoused nvidia gpus after analyst questions jensen huang blackwell shipment numbers ( updated ),0,2025-12-20,0,0.779178,1
+surprising biomedical application found for asml chipmaking euv lithography machines they can mass produce nanopores for molecular sensing,1,2025-12-21,1,0.25527185,0
+jim cramer calls nvidia a fabulous company,1,2025-12-21,1,0.15791836,0
+intel stock soared in 2025 . but the chipmaker still has a long road ahead .,0,2025-12-21,0,0.84405506,1
+micron ( mu ) gets $500 target as ai drives dram and nand demand,-1,2025-12-21,0,0.40734813,0
+linux 6 . 19 boosts legacy amd radeon gpus with amdgpu driver upgrade,1,2025-12-22,1,0.90246207,1
+linux 6 . 19 significant ~30 % performance boost for old amd radeon gpus,1,2025-12-22,1,0.9571417,1
+msi stealth 16 ai - 16 - geforce rtx 5060 laptop gpu - intel core ultra7 - 255h rtx - 32gb ddr5 - 1tb nvme ssd - 240 hz oled display - win 11 home ( stealth 16 ai a2hwfg - 041us ),1,2025-12-22,1,0.7807765,1
+samsung ds division responsible for the company semiconductor business will hand out a 100 % performance bonus to employees as company recovery goes into overdrive,1,2025-12-22,1,0.55554956,1
+"intel biggest problem is being a partner & competitor at the same time , claims ex - board member , calling for a foundry spin - off",-1,2025-12-22,0,0.14980571,0
+ai chips are driving a foundry boom . why tsmc is winning the most,1,2025-12-22,1,0.93449706,1
+inside samsung bribery allegations as dram and nand prices surge worldwide,0,2025-12-22,0,0.3492864,0
+apple locks in samsung as dram shortage bites,-1,2025-12-22,0,0.34773907,0
+samsung gains ground in nvidia hbm4 tests as ai memory supply race tightens,1,2025-12-22,1,0.14548525,0
+"samsung has reportedly become apple largest dram supplier for the iphone 17 series , accounting for 60 - 70 % of shipments , iphone 18 supply also included",0,2025-12-22,0,0.19333993,0
+"financialcontent - nvidia shatters key technical resistance , igniting year - end semiconductor surge and $5 trillion milestone",0,2025-12-23,0,0.12986857,0
+"intel showcases its next - level & massively scalable packaging capabilities : >12x reticle with 16 compute tiles on 18a / 14a nodes , up to 24 hbm sites & leveraging advanced foveros 3d & emib technologies",1,2025-12-23,1,0.7470661,1
+"nvidia prepares shipment of 82 , 000 ai gpus to china as chip war lines blur h200 shipments with 25 % tax to begin as us loosens restrictions",-1,2025-12-23,0,0.3135636,0
+samsung hbm4 chips have reportedly passed nvidia tests with flying colors,0,2025-12-23,0,0.12883413,0
+semiconductors : nvidia at the heart of the new pacific battle,-1,2025-12-23,0,0.54029393,1
+linux 6 . 19 improves radeon hd 7950 performance by 30 % with amdgpu driver,1,2025-12-23,1,0.66125906,1
+intel fab 52 is bigger and better equipped than tsmc arizona facilities intel production volumes dwarf tsmc operations in the u . s .,1,2025-12-23,1,0.51732314,1
+"sk hynix expands u . s . presence with new bellevue , seattle office in efforts to get closer to its largest customers offices near nvidia , amazon , and microsoft highlight co - designed hbm efforts",1,2025-12-24,1,0.07424135,0
+samsung execs charged in massive 10nm dram trillion - won leak to china,1,2025-12-24,1,0.13657597,0
+"nvidia stock is up 31 % in 2025 , but here another super semiconductor stock to buy in 2026 , according to wall street",1,2025-12-24,1,0.5919651,1
+exploring the competitive space : broadcom versus industry peers in semiconductors & semiconductor equipment - broadcom ( nasdaq : avgo ),1,2025-12-24,1,0.5537133,1
+financialcontent - the high - stakes gamble : can intel foundry resurgence finally dent tsmc dominance in 2026 ?,1,2025-12-25,1,0.35854194,0
+samsung exynos 2800 reportedly features the company in - house gpu and is scheduled to launch in 2027 ; soc can be found in applications beyond smartphones,0,2025-12-25,0,0.12691306,0
+amd expo 1 . 2 could supercharge ryzen cpus with cudimm support amid global dram crunch full amd cudimm support is on the horizon,1,2025-12-25,1,0.82384306,1
+samsung 10nm - class dram technology thieves indicted,-1,2025-12-25,0,0.274306,0
+"this amd - powered ibuypower prebuilt has 32gb of ddr5 memory , ryzen 7 cpu , and an rx 9060 xt gpu for just $1000 $250 off provides pricing relief during ram pricing crisis",-1,2025-12-25,0,0.122211084,0
+arch linux kills off nvidia pascal gpu support users still running gtx 10 - series graphics cards will have to manually install older drivers,-1,2025-12-25,0,0.17974317,0
+bofa sees advanced packaging potential for intel foundry ( intc ) despite manufacturing headwinds,1,2025-12-25,1,0.496277,0
+"nvidia licenses groq inference technology , groq executives join chipmaker ( nvda : nasdaq )",1,2025-12-25,1,0.1382284,0
+"$20 billion , all cash ! inside nvidia biggest christmas shopping spree ever to acquire trump jr - backed ai chip maker",1,2025-12-25,1,0.10765799,0
+better artificial intelligence stock : asml vs . taiwan semiconductor,1,2025-12-26,1,0.6898482,1
+"amd rdna3 / rdna4 go down hard on linux 6 . 19 , but here how the older amd gpus end out 2025",-1,2025-12-26,0,0.9273568,1
+"nvidia reportedly backs away from its effort to make its own public cloud , team reorg eases friction with customers chipmaker shifts unit focus to internal r & d",1,2025-12-26,1,0.195475,0
+nvidia acquires tech and talent from inference chip maker groq,1,2025-12-26,1,0.1013337,0
+financialcontent - the memory supercycle : micron hits all - time high as ai infrastructure demand redefines the semiconductor sector,-1,2025-12-26,0,0.74997723,1
+samsung to build a custom gpu for its upcoming exynos 2800 processor in 2027,0,2025-12-26,0,0.47161847,0
+"semiconductors : asml , the tech giant at the center of the us - china conflict in the race for ai",-1,2025-12-26,0,0.7159701,1
+assessing broadcom performance against competitors in semiconductors & semiconductor equipment industry - broadcom ( nasdaq : avgo ),0,2025-12-26,0,0.274962,0
+in - depth analysis : micron technology versus competitors in semiconductors & semiconductor equipment industry - micron technology ( nasdaq : mu ),0,2025-12-26,0,0.23843499,0
+nucbox k15 mini pc offers intel ultra cpu and gpu expansion docks at the lowest price ever seen,-1,2025-12-27,0,0.24481982,0
+"amd and nvidia are expected to hike gpu prices early 2026 , and may continue to do so in the following months",0,2025-12-27,0,0.045553945,0
+"gpu power cable nvidia dual 8 - pin to 8 - pin – for tesla m60 , p40 , p100 , yellow 4 tesla cables",0,2025-12-27,0,0.099833496,0
+"nvidia aqui - hire of groq eliminates a potential competitor and marks its entrance into the non - gpu , ai inference chip space",0,2025-12-28,0,0.48311657,0
+"nvidia next - gen feynman gpus could see the inclusion of groq lpu units by 2028 , stacked as separate dies similar to amd x3d approach",0,2025-12-28,0,0.33700755,0
+"weekend tech roundup : italy targets meta , samsung gpu move , ai billionaires , tiktok oracle - led shift and russia starlink threat",-1,2025-12-28,0,0.07927734,0
+intel xe vs . i915 driver performance on linux 6 . 19 for arc alchemist gpus,0,2025-12-28,0,0.7960228,1
+"modders are slapping 32gb of vram on nvidia rtx 5080 gpus , but that isnt good for gamers modded variants designed for ai workstations and servers",-1,2025-12-28,0,0.2970811,0
+cheaper radeon pro cards quietly outperform nvidia flagship workstation gpus across real engineering workloads,1,2025-12-28,1,0.29959774,0
+nvidia takes $5b in intel shares as major financial lifeline for chipmaker,1,2025-12-29,1,0.22700769,0
+better artificial intelligence stock : navitas semiconductor vs . astera labs,1,2025-12-29,1,0.8185302,1
+financialcontent - the backbone of the million - gpu cluster : broadcom dominance in the 2026 ai networking supercycle,1,2025-12-29,1,0.71080077,1
+forget about galaxy s26 : samsung could pull an apple for galaxy s28 gpu,-1,2025-12-29,0,0.38700992,0
+analyzing intel in comparison to competitors in semiconductors & semiconductor equipment industry - intel ( nasdaq : intc ),0,2025-12-29,0,0.1551818,0
+"nvidia rtx pro 5000 blackwell gpu : 72gb gddr7 , ai power for pros",0,2025-12-29,0,0.09329375,0
+competitor analysis : evaluating micron technology and competitors in semiconductors & semiconductor equipment industry - micron technology ( nasdaq : mu ),0,2025-12-29,0,0.13013631,0
+nvidia vs . taiwan semiconductor manufacturing : what the better buy ?,1,2025-12-31,1,0.87354,1
+msi cyborg - 15 . 6 geforce rtx 4050 laptop gpu - intel core i7 - 13620h - 16gb memory - 512gb ssd - windows 11 home gaming laptops - 144 hz ips ( a13ve - 218us ),0,2025-12-30,0,0.71518636,1
+financialcontent - the semiconductor supercycle of 2025 : beyond nvidia and into the ai utility era,0,2025-12-31,0,0.57875025,1
+samsung imports and sales of hbm chips in the us are at risk,-1,2025-12-31,0,0.6443678,1
+samsung to increase its hbm production capacity drastically,1,2025-12-31,1,0.31787592,0
+gpus are so 2025 -- this is 2026 hottest trend for the $15 . 7 trillion artificial intelligence revolution,1,2025-12-31,1,0.88964486,1

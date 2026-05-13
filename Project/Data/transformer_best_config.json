@@ -1,0 +1,23 @@
+{
+  "cfg": {
+    "d_model": 64,
+    "nhead": 2,
+    "ff_dim": 512,
+    "num_layers": 1,
+    "dropout": 0.4,
+    "lr": 0.001,
+    "batch_size": 16,
+    "use_pos_weight": true,
+    "epochs": 50,
+    "patience": 2
+  },
+  "val_metrics": {
+    "acc": 0.8028169014084507,
+    "precision": 0.7428571428571429,
+    "recall": 0.8387096774193549,
+    "f1": 0.7878787878787878,
+    "roc_auc": 0.8064516129032259,
+    "threshold": 0.375
+  },
+  "early_stop_on": "roc_auc"
+}
